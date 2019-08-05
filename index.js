@@ -8,7 +8,7 @@ module.exports = {
     nodeAssets: {
       'framework7': function() {
           return {
-            srcDir: 'dist',
+            srcDir: 'js',
             import: [
               'js/framework7.js',
               'js/framework7.js.map',
